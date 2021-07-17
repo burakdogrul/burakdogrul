@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Burak Dogrul.
 #### Jr. Data Scientist and DS content creator
-![Jr. Data Scientist and DS content creator](https://www.openaccessgovernment.org/wp-content/uploads/2019/06/dreamstime_m_140084029-696x461.jpg)
+![Jr. Data Scientist and DS content creator](https://github.com/burakdogrul/burakdogrul/blob/main/118623604_10224476795931482_6015816430186228789_n.jpg)
 
 I do Data Science and Machine Learning Projects. I'm dedicated learning machine learning and big data.
 
