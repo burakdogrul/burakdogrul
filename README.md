@@ -15,6 +15,7 @@ I do Data Science and Machine Learning Projects. I'm dedicated learning machine 
 
 
 🔭 I’m currently working on Veri Bilimi Okulu 
+
 💬 Ask me about any questions about my codes 
 
 
