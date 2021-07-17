@@ -1,10 +1,17 @@
-### Hi there 👋 I'm Burak Dogrul.
-#### Jr. Data Scientist and DS content creator
 ![Jr. Data Scientist and DS content creator](https://github.com/burakdogrul/burakdogrul/blob/main/118623604_10224476795931482_6015816430186228789_n.jpg)
+
+# Burak Dogrul
+## Jr. Data Scientist and DS content creator
 
 I do Data Science and Machine Learning Projects. I'm dedicated learning machine learning and big data.
 
-Skills: PYTHON / SQL / SPSS / APACHE SPARK / POWER BI
+
+## SKILLS
+* 💻 PYTHON
+* 💾 SQL
+* 🎯 APACHE SPARK
+* 🔑 SPSS
+* 🔎 POWER BI
 
 - 🔭 I’m currently working on Veri Bilimi Okulu 
 - 💬 Ask me about any questions about my codes 
