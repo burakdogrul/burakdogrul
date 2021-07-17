@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Burak.
+### Hi there 👋 
+###I'm Burak Dogrul.
 #### Jr. Data Scientist and DS content creator
 ![Jr. Data Scientist and DS content creator](https://www.openaccessgovernment.org/wp-content/uploads/2019/06/dreamstime_m_140084029-696x461.jpg)
 
