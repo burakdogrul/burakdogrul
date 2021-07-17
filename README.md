@@ -20,10 +20,10 @@ I do Data Science and Machine Learning Projects. I'm dedicated learning machine 
 
 ## MY WORKS
 
-[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/recsys.jpeg' height='240' width='240'>](https://github.com/burakdogrul/Overview-of-Recommender-Systems-And-Implementations)
-[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/dynamic-pricing.jpg' height='240' width='240'>](https://github.com/burakdogrul/dynamic_pricing)
-[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/pred.jpg' height='240' width='240'>](https://github.com/burakdogrul/Predict_LiveMatch_Score)
-[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/cltv.webp' height='240' width='240'>](https://github.com/burakdogrul/cltv_via_bg-nbd-gammagamma)
+[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/recsys.jpeg' height='240' width='480'>](https://github.com/burakdogrul/Overview-of-Recommender-Systems-And-Implementations)
+[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/dynamic-pricing.jpg' height='480' width='240'>](https://github.com/burakdogrul/dynamic_pricing)
+[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/pred.jpg' height='240' width='480'>](https://github.com/burakdogrul/Predict_LiveMatch_Score)
+[<img src='https://github.com/burakdogrul/burakdogrul/blob/main/cltv.webp' height='240' width='480'>](https://github.com/burakdogrul/cltv_via_bg-nbd-gammagamma)
 
 
 ## CONTACT
