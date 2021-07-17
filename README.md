@@ -1,6 +1,3 @@
-![Jr. Data Scientist and DS content creator]
-
-
 # Burak Dogrul
 ## Jr. Data Scientist and DS content creator
 
