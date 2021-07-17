@@ -1,4 +1,4 @@
-![Jr. Data Scientist and DS content creator] (https://github.com/burakdogrul/burakdogrul/blob/main/118623604_10224476795931482_6015816430186228789_n.jpg)
+![Jr. Data Scientist and DS content creator](https://github.com/burakdogrul/burakdogrul/blob/main/118623604_10224476795931482_6015816430186228789_n.jpg)
 
 
 # Burak Dogrul
