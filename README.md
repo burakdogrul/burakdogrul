@@ -13,8 +13,9 @@ I do Data Science and Machine Learning Projects. I'm dedicated learning machine 
 * 🔑 SPSS
 * 🔎 POWER BI
 
-- 🔭 I’m currently working on Veri Bilimi Okulu 
-- 💬 Ask me about any questions about my codes 
+
+🔭 I’m currently working on Veri Bilimi Okulu 
+💬 Ask me about any questions about my codes 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/burakdogrul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burakdogrul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/burakdogrul92/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/burakdogrul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ikibirsekiz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.burakdogrul.com)  
