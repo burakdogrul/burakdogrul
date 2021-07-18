@@ -30,8 +30,6 @@ I do Data Science and Machine Learning Projects. I'm dedicated learning machine 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=burakdogrul&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=burakdogrul)  
-
 ![GitHub metrics](https://metrics.lecoq.io/burakdogrul)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=burakdogrul)  
