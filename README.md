@@ -1,5 +1,5 @@
 # Burak Dogrul
-## Jr. Data Scientist and DS content creator
+## Data Scientist and DS content creator
 
 I do Data Science and Machine Learning Projects. I'm dedicated learning machine learning and big data.
 
