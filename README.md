@@ -23,7 +23,7 @@ I do Data Science and Machine Learning Projects. I'm dedicated learning machine 
 [<img src='https://github.com/burakdogrul/burakdogrul/blob/main/pred.jpg' height='240' width='480'>](https://github.com/burakdogrul/Predict_LiveMatch_Score)
 [<img src='https://github.com/burakdogrul/burakdogrul/blob/main/cltv.webp' height='240' width='480'>](https://github.com/burakdogrul/cltv_via_bg-nbd-gammagamma)
 [<img src='https://github.com/burakdogrul/House_Price_Prediction/blob/main/images/houspreice.jpg' height='240' width='480'>](https://github.com/burakdogrul/House_Price_Prediction)
-[<img src='https://github.com/burakdogrul/socialnetwork.jpg' height='480' width='480'>](https://github.com/burakdogrul/transfer_network)
+[<img src='https://github.com/burakdogrul/House_Price_Prediction/blob/main/images/socialnetwork.jpg' height='240' width='480'>](https://github.com/burakdogrul/transfer_network)
 
 ## CONTACT
 
