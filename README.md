@@ -23,8 +23,8 @@ I do Data Science and Machine Learning Projects. I'm dedicated learning machine 
 [<img src='https://github.com/burakdogrul/burakdogrul/blob/main/pred.jpg' height='240' width='480'>](https://github.com/burakdogrul/Predict_LiveMatch_Score)
 [<img src='https://github.com/burakdogrul/burakdogrul/blob/main/cltv.webp' height='240' width='480'>](https://github.com/burakdogrul/cltv_via_bg-nbd-gammagamma)
 [<img src='https://github.com/burakdogrul/House_Price_Prediction/blob/main/images/houspreice.jpg' height='240' width='480'>](https://github.com/burakdogrul/House_Price_Prediction)
-[<img src='[https://github.com/burakdogrul/House_Price_Prediction/blob/main/images/houspreice.jpg](https://github.com/burakdogrul/transfer_network)' height='240' width='480'>](https://github.com/burakdogrul/socialnetwork.jpg)
-socialnetwork.jpg
+[<img src='https://github.com/burakdogrul/socialnetwork.jpg' height='240' width='480'>](https://github.com/burakdogrul/transfer_network)
+
 ## CONTACT
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/burakdogrul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/burakdogrul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/burakdogrul92/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/burakdogrul/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/ikibirsekiz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.burakdogrul.com)  
