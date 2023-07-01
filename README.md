@@ -1,18 +1,25 @@
 # Burak Dogrul
-## Data Scientist and DS content creator
+## Senior Data Scientist at Turkcell Technology
+## Data Science Content Creator
 
-I do Data Science and Machine Learning Projects. I'm dedicated learning machine learning and big data.
+I am Burak Dogrul, a Data Scientist with a passion for transforming data into actionable insights. With three years of experience in analyzing enormous data sets, I have developed a strong foundation in data engineering and the ability to provide data-driven solutions. My journey in studying my major at university was driven by a fascination with the power of data and its potential to drive innovation.
 
+For reasons of confidentiality, I am not able to share my work projects here.
 
 ## SKILLS
-* 💻 PYTHON
-* 💾 SQL
-* 🎯 APACHE SPARK
-* 🔑 SPSS
-* 🔎 POWER BI
+* Python
+* Sql
+* Data Science
+* Machine Learning
+* Deep Learning
+* Apache Spark
+* Apache Hadoop
+* Apache Hive
+* Apache Airflow
+* Amazon Web Services
+* Power BI
+* Qlik Sense
 
-
-🔭 I’m currently working on Veri Bilimi Okulu 
 
 💬 Ask me about any questions about my codes 
 
